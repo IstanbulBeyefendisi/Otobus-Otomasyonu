@@ -1,0 +1,14 @@
+C:\Users\ymba2\OneDrive\Masaüstü\OtobusOtomasyonu\OtobusOtomasyonu\bin\Debug\OtobusOtomasyonu.exe.config
+C:\Users\ymba2\OneDrive\Masaüstü\OtobusOtomasyonu\OtobusOtomasyonu\bin\Debug\OtobusOtomasyonu.exe
+C:\Users\ymba2\OneDrive\Masaüstü\OtobusOtomasyonu\OtobusOtomasyonu\bin\Debug\OtobusOtomasyonu.pdb
+C:\Users\ymba2\OneDrive\Masaüstü\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.csprojAssemblyReference.cache
+C:\Users\ymba2\OneDrive\Masaüstü\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.GirisForm.resources
+C:\Users\ymba2\OneDrive\Masaüstü\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.Properties.Resources.resources
+C:\Users\ymba2\OneDrive\Masaüstü\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ymba2\OneDrive\Masaüstü\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ymba2\OneDrive\Masaüstü\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.exe
+C:\Users\ymba2\OneDrive\Masaüstü\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.pdb
+C:\Users\ymba2\OneDrive\Masaüstü\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.MusteriForm.resources
+C:\Users\ymba2\OneDrive\Masaüstü\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.YoneticiForm.resources
+C:\Users\ymba2\OneDrive\Masaüstü\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.PerIslemleriForm.resources
+C:\Users\ymba2\OneDrive\Masaüstü\OtobusOtomasyonu\OtobusOtomasyonu\obj\Debug\OtobusOtomasyonu.PersonelListeleForm.resources
